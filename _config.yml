@@ -1,29 +1,26 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+title: Joey Blog
+SEOTitle: 李叔的博客 | Joooooey Blog
+header-img: img/post-bg-desk.jpeg
+email: li.yin.qiao.2012@hotmail.com
+description: "Love and Freedom."
+keyword: "Li Yinqiao, Yinqiao Li, Yinqiao LI, 李叔 Blog, 李叔的博客, liyinqiao, 李垠桥, 李什么李叔儿, NiuTensor, NAS, 电子产品, Apple"
+url: "http://liyinqiao2012.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "希望有一天，爱与自由不再是虚无缥缈的口号。"
+sidebar-avatar: /img/about-Joooooey.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+weibo_username:     李什么李叔儿
+zhihu_username:     李垠桥
+github_username:    liyinqiao2012
 
 
 
@@ -56,17 +53,17 @@ kramdown:
 
 
 # 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+#Disqus（https://disqus.com/）
+#disqus_username: liyinqiao
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: 6a51fbe8952f6b31848b                            #生成的clientID
+  clientSecret: 23520b1bc9ced87bda20a303ba31740225ee94d1    #生成的clientSecret
+  repo: liyinqiao2012.github.io    #仓库名称
+  owner: liyinqiao2012    #github用户名
+  admin: Joooooey
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -74,11 +71,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+#ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+#ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -99,16 +96,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "NEUNLP Lab.",
+        href: "http://nlplab.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "NiuTensor",
+        href: "http://niutrans.com/openSource/home/index.html"
     }
 ]
