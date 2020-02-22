@@ -7,7 +7,7 @@ description: "Love and Freedom."
 keyword: "Li Yinqiao, Yinqiao Li, Yinqiao LI, 李叔 Blog, 李叔的博客, liyinqiao, 李垠桥, 李什么李叔儿, NiuTensor, NAS, 电子产品, Apple"
 url: "http://liyinqiao2012.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/liyinqiao2012/liyinqiao2012.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
