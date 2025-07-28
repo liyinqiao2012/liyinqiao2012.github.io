@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Patent & Award 🎉
+title: Patent and Award 🎉
 ---
 
 ## PATENTS
