@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About Me 🙋‍♂️
-description: "Homepage of LI Yinqiao, postdoc, postdoctoral fellow, NLP researcher at City University of Hong Kong (CityU/CityUHK)."
+description: "Homepage of LI Yinqiao, postdoc/postdoctoral fellow, NLP researcher at City University of Hong Kong (CityU/CityUHK)."
 ---
 <img src="/asset/pics/myself.jpeg" alt="Myself" width="212"/>
 
