@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research 📜
+description: "Paper list/publication of LI Yinqiao, a NLP researcher at City University of Hong Kong (CityU/CityUHK)."
 ---
 
 ## RESEARCH EXPERIENCE
