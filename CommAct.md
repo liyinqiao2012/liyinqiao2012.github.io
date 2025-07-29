@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Community Activities 🎒
+description: "Community activities of LI Yinqiao, a NLP researcher at City University of Hong Kong (CityU/CityUHK)."
 ---
 
 - **Chair** of the Widening NLP (WiNLP) workshop, 2025-Present
