@@ -1,7 +1,11 @@
 const cacheName = 'v1';
 const filesToCache = [
   '/',
-  '/index.html'
+  '/index.html',
+  '/Research.html',
+  '/CommAct.html',
+  '/PatentAndAward.html',
+  'asset/pics/myself.webp'
 ];
 
 self.addEventListener('install', event => {
