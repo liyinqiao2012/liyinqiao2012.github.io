@@ -1,0 +1,15 @@
+{
+  "name": "LI Yinqiao's Homepage",
+  "short_name": "Yinqiao",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#317EFB",
+  "icons": [
+    {
+      "src": "/public/apple-touch-icon-precomposed.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    }
+  ]
+}
