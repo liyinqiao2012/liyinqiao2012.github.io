@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Patent and Award 🎉
+description: "Patents, evaluation tasks, honors and awards of LI Yinqiao, a NLP researcher at City University of Hong Kong (CityU/CityUHK)."
 ---
 
 ## PATENTS
