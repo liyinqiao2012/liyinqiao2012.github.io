@@ -21,7 +21,7 @@ Additionally, I am passionate about contributing to our NLP community. I served 
 ## News
 
 <ul>
-  {% for post in site.posts limit:15 %}
+  {% for post in site.posts limit:10 %}
     <li>
       <span>{{ post.date | date: "%Y-%m-%d" }}</span> -
       <a href="{{ post.url }}">{{ post.title }}</a>
