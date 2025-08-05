@@ -5,7 +5,7 @@ description:         LI Yinqiao's Homepage
 url:                 'https://liyinqiao.com'
 baseurl:             ''
 paginate:            20
-paginate_path:       "/news/page:num"
+paginate_path:       "/News/page:num"
 permalink:           pretty
 
 # About/contact
