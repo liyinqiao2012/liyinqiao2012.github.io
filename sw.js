@@ -2,9 +2,10 @@ const cacheName = 'v1';
 const filesToCache = [
   '/',
   '/index.html',
-  '/Research.html',
-  '/CommAct.html',
-  '/PatentAndAward.html',
+  '/Research/',
+  '/CommAct/',
+  '/PatentAndAward/',
+  '/News/',
   'asset/pics/myself.webp'
 ];
 
