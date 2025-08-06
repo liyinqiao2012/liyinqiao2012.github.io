@@ -1,0 +1,16 @@
+---
+layout: page
+title: Gallery 🖼️
+---
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  {% for folder in site.data.image_list %}
+    {% for file in folder[1] %}
+      <img 
+        src="/asset/pics/{{ folder[0] }}/{{ file }}" 
+        alt="{{ file }}" 
+        style="height: 200px; object-fit: cover; aspect-ratio: 1/1; border-radius: 8px;"
+      >
+    {% endfor %}
+  {% endfor %}
+</div>
