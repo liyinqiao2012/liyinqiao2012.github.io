@@ -10,7 +10,14 @@ title: Gallery 🖼️
         src="/asset/pics/{{ folder[0] }}/thumbs/{{ file }}" 
         alt="{{ file }}" 
         loading="lazy"
-        style="height: 200px; object-fit: cover; aspect-ratio: 1/1; border-radius: 8px;"
+        style="
+          flex: 1 1 200px;
+          min-width: 200px;
+          object-fit: cover;
+          aspect-ratio: 1/1;
+          border-radius: 8px;
+          height: auto;
+		  "
       >
     {% endfor %}
   {% endfor %}
