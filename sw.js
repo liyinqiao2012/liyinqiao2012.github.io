@@ -4,7 +4,10 @@ const filesToCache = [
   '/Research/',
   '/CommAct/',
   '/PatentAndAward/',
-  'asset/pics/myself.webp'
+  'asset/pics/myself.webp',
+  'public/css/lanyon.css',
+  'public/css/poole.css',
+  'public/css/syntax.css'
 ];
 
 self.addEventListener('install', event => {
