@@ -1,18 +1,28 @@
-const cacheName = 'v1';
+const cacheName = 'v4';
 const filesToCache = [
   '/',
-  '/index.html',
   '/Research/',
   '/CommAct/',
   '/PatentAndAward/',
-  '/News/',
   'asset/pics/myself.webp'
 ];
 
 self.addEventListener('install', event => {
+  self.skipWaiting(); // 安装后立即激活
   event.waitUntil(
     caches.open(cacheName).then(cache => {
       return cache.addAll(filesToCache);
+    })
+  );
+});
+
+self.addEventListener('activate', event => {
+  clients.claim(); // 激活后立即接管页面
+  event.waitUntil(
+    caches.keys().then(keys => {
+      return Promise.all(
+        keys.filter(key => key !== cacheName).map(key => caches.delete(key))
+      );
     })
   );
 });
