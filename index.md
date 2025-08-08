@@ -75,6 +75,6 @@ More news can be found [here](/News).
 
 I love my hometown (Northeast China). I grew up in Anshan and completed my entire education in Shenyang  (~11 years). People there are very warm and friendly — always cheerful and full of positive energy. I'm so grateful for inheriting the Northeastern Chinese spirit that supports me in any situation.
 
-Now, I work in Hong Kong 🇭🇰. This is also an amazing city. Its high diversity, incredible inclusiveness, magnificent urban and natural landscapes — all these unique features make me enjoy living here. Additionally, I'm learning Cantonese. Every time my local neighbors compliment my Cantonese, like "你嘅廣東話而家幾好喎 (Your Cantonese is excellent now)", it always makes my day!
+Now, I work in Hong Kong 🇭🇰. This is also an amazing city. Its high diversity, incredible inclusiveness, magnificent urban and natural landscapes — all these unique features make me enjoy living here. Additionally, I'm learning Cantonese. Every time my local neighbors compliment my Cantonese, like "你嘅廣東話而家幾好喎 (Your Cantonese is better now)", it always makes my day!
 
 *With best wishes to my parents and everyone I hold close to my heart.* 🤞
