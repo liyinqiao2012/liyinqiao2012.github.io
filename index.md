@@ -12,7 +12,7 @@ I am **LI Yinqiao (李垠桥/李垠橋/Joey)**, currently a **postdoctoral fello
 
 I received my Ph.D. and M.S. degrees from Northeastern University (CN) under the supervision of Prof. XIAO Tong and Prof. ZHU Jingbo ([NEUNLP Lab](http://team.neu.edu.cn/NEUNLPLab/zh_CN/index.htm)). I also earned my B.S. degree at the [NEU-RTES Lab](http://www.neu-rtes.org/index.php) of Northeastern University (CN). My research primarily focuses on language modeling, neural architecture search for NLP tasks, machine translation, and related areas. Detailed publications can be found [here](/Research). 
 
-Additionally, I am passionate about contributing to our NLP community. I served as chairs for multiple academic conferences before, and currently I am serving as a fixed term chair of [WiNLP](https://winlp-workshop.github.io/) (ACL-affiliated affinity group), aiming to help promote and support ideas and voices of underrepresented groups. More my community activities can be found [here](/CommAct). 
+Additionally, I am passionate about contributing to our NLP community. I served as chairs for multiple academic conferences (ACL ARR, CCL, etc.) before, and currently I am serving as a fixed term chair of [WiNLP](https://winlp-workshop.github.io/) (ACL-affiliated affinity group), aiming to help promote and support ideas and voices of underrepresented groups. More my community activities can be found [here](/CommAct). 
 
  [💼 LinkedIn](https://www.linkedin.com/in/yinqiao-li-9b2050140/) [📑 CV](https://github.com/liyinqiao2012/myCV/raw/master/CV-YinqiaoLi.pdf)  [📚 Google Scholar](https://scholar.google.com/citations?user=8fz9hSUAAAAJ&hl=zh-TW) [📧 Email](mailto:li.yin.qiao.2012@hotmail.com) 
 
