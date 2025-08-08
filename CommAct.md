@@ -48,7 +48,7 @@ description: "Community activities of LI Yinqiao, a NLP researcher at City Unive
   
 - **Reviwer** of CCL 2019, 2019
   
-- **Tutorial representation** on Workshop of the 18th China Conference on Machine Translation, 2022
+- **Tutorial presentation** on Workshop of the 18th China Conference on Machine Translation, 2022
   
 - **Oral presentation** on the PhD Debate of AI Time, 2021
   
