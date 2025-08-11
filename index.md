@@ -18,7 +18,7 @@ Additionally, I am passionate about contributing to our NLP community. I served 
 
 [📍 Office: MMW RM2485@CityUHK](https://maps.app.goo.gl/HgPAx2mx74pifwbr8)
 
-## News
+## NEWS
 
 <ul>
   {% for post in site.posts limit:10 %}
@@ -71,7 +71,7 @@ More news can be found [here](/News).
   - Machine Translation
   - NLP Applications (FinTech, AI for Education, etc.)
 
-## Misc
+## MISC
 
 I love my hometown (Northeast China/Manchuria). I grew up in Anshan and completed my entire education in Shenyang  (~11 years). People there are very warm and friendly — always cheerful and full of positive energy. I'm so grateful for inheriting the Northeastern Chinese spirit that supports me in any situation.
 
