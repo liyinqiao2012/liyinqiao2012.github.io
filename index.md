@@ -8,7 +8,7 @@ description: "Homepage of LI Yinqiao, postdoc/postdoctoral fellow, NLP researche
   <img src="/asset/pics/myself.jpeg" alt="Myself" width="212"/>
 </picture>
 
-I am **LI Yinqiao (李垠桥/李垠橋/Joey)**, currently a **postdoctoral fellow** at [AI^2 Lab](https://sites.google.com/site/aisquaredlab/home?authuser=0) at the **City University of Hong Kong (CityUHK)** under the supervision of Prof. SONG Linqi. 
+I am **<ruby>LI Yinqiao<rt>liː jiːn tʃʰaʊ</rt></ruby> (李垠桥/李垠橋/Joey)**, currently a **postdoctoral fellow** at [AI^2 Lab](https://sites.google.com/site/aisquaredlab/home?authuser=0) at the **City University of Hong Kong (CityUHK)** under the supervision of Prof. SONG Linqi. 
 
 I received my Ph.D. and M.S. degrees from Northeastern University (CN) under the supervision of Prof. XIAO Tong and Prof. ZHU Jingbo ([NEUNLP Lab](http://team.neu.edu.cn/NEUNLPLab/zh_CN/index.htm)). I also earned my B.S. degree at the [NEU-RTES Lab](http://www.neu-rtes.org/index.php) of Northeastern University (CN). My research primarily focuses on language modeling, neural architecture search for NLP tasks, machine translation, and related areas. Detailed publications can be found [here](/Research). 
 
