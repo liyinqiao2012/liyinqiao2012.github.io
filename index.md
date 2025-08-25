@@ -78,20 +78,3 @@ I love my hometown (Northeast China/Manchuria). I grew up in Anshan and complete
 Now, I work in Hong Kong 🇭🇰. This is also an amazing city. Its high diversity, incredible inclusiveness, magnificent urban and natural landscapes — all these unique features make me enjoy living here. Additionally, I'm learning Cantonese. Every time my local neighbors compliment my Cantonese, like "你而家廣東話講得叻好多喇 (Your Cantonese is better now)", it always makes my day!
 
 *With best wishes to my parents and everyone I hold close to my heart.* 🤞
-
-## Visitors (Last 28 Days)
-
-<div style="max-width: 1024px; margin: 1rem auto;">
-  <div style="position: relative; width: 50%; aspect-ratio: 16 / 9; background: #f6f8fa; border-radius: 12px; overflow: hidden;">
-    <iframe
-      src="https://lookerstudio.google.com/embed/reporting/e7a8b897-7515-43d8-9248-290e04d8b2b5/page/D8gVF"
-      title="Visitors by Country"
-      style="width:100%; height:500px; border:0; border-radius:12px;"
-    	allowfullscreen
-    	loading="lazy"
-    	referrerpolicy="no-referrer-when-downgrade">
-    </iframe>
-  </div>
-  <p style="text-align:center; font-size: 0.9rem; color:#666; margin-top:0.5rem;">
-  </p>
-</div>
