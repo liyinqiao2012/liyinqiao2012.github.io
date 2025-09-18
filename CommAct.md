@@ -4,10 +4,12 @@ title: Community Activities 🎒
 description: "Community activities of LI Yinqiao, a NLP researcher at City University of Hong Kong (CityU/CityUHK)."
 ---
 
-- **Chair** of the Widening NLP (WiNLP) workshop, 2025-Present
+- **Chair** of the Widening NLP (WiNLP), 2025-Present
   
 - **Member** of the Youth Working Committee of CIPS, 2023-Present
   
+- **Publication Chair** of WiNLP 2025, 2025
+
 - **Area Chair** of ARR May 2025, 2025
   
 - **Area Chair** of CCL 2025, 2025
