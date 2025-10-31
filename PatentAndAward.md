@@ -6,7 +6,7 @@ description: "Patents, evaluation tasks, honors and awards of LI Yinqiao, a NLP 
 
 ## PATENTS
 
-- Guanzhi Deng, Guangwei Zhang, <u>Yinqiao Li</u>, Mingyang Liu, Zengyan Liu, Yuxuan Yao, Ka Ki Yu, Dapeng Wu, Linqi Song. 2025. *A Hybrid LLM-Knowledge Graph System for Intelligent Patent Retrieval and Analysis*. (US Provisional Patent 63/805,945, filled).
+- Guanzhi Deng, Guangwei Zhang, <u>Yinqiao Li</u>, Mingyang Liu, Zengyan Liu, Yuxuan Yao, Ka Ki Yu, Dapeng Wu, Linqi Song. 2025. *A Hybrid LLM-Knowledge Graph System for Intelligent Patent Retrieval and Analysis*. (US Provisional Patent 63/805,945, filed).
   
 
 ## EVALUATION TASKS
