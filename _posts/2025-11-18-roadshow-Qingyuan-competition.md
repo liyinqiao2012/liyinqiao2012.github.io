@@ -7,3 +7,5 @@ Conducted a roadshow presentation at the final of the 2025 Qingyuan Entrepreneur
 ![presentation](/asset/pics/post-2025-11-18/presentation.jpg)
 
 ![team](/asset/pics/post-2025-11-18/team.jpg)
+
+![award](/asset/pics/post-2025-11-18/award.png)
