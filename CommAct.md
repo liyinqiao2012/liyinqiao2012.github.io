@@ -60,6 +60,10 @@ description: "Community activities of LI Yinqiao, a NLP researcher at City Unive
   
 - **Oral presentation** on the 28th International Joint Conference on Artificial Intelligence, 2019
   
+- **Poster presentation** on the International Exhibition of Inventions Geneva (2026), 2026
+  
+- **Poster presentation** on the Asia Exhibition of Innovations and Inventions Hong Kong (AEII) 2025, 2025
+  
 - **Poster presentation** on the International Exhibition of Inventions Geneva (2025), 2025
   
 - **Poster presentation** on the Asia Exhibition of Innovations and Inventions Hong Kong (AEII) 2024, 2024

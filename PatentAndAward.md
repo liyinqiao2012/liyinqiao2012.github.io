@@ -16,9 +16,11 @@ description: "Patents, evaluation tasks, honors and awards of LI Yinqiao, a NLP 
 
 ## HONORS AND AWARDS
 
-- The International Exhibition of Inventions Geneva (IEIG 2025), Silver Awards, 2025
+- The International Exhibition of Inventions Geneva (IEIG 2026), Bronze Award, 2026
+- The Asia Exhibition of Innovations and Inventions Hong Kong (AEII), Silver Award, 2025
+- The International Exhibition of Inventions Geneva (IEIG 2025), Silver Award, 2025
 - The Asia Exhibition of Innovations and Inventions Hong Kong (AEII), Bronze Award, 2024
-- The International Exhibition of Inventions Geneva (IEIG 2024), Two Silver Awards, 2024
+- The International Exhibition of Inventions Geneva (IEIG 2024), 2 Silver Awards, 2024
 - The First Class Scholarship for Outstanding Students of Northeastern University, 2016, 2017, 2018, 2019, 2020
 - Outstanding Graduate Students of Shenyang, 2020
 - CASC Scholarship, 2020

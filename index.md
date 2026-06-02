@@ -8,7 +8,7 @@ description: "Homepage of LI Yinqiao, postdoc/postdoctoral fellow, NLP researche
   <img src="/asset/pics/myself.jpeg" alt="Myself" width="212"/>
 </picture>
 
-I am **<ruby>LI Yinqiao<rt>liː jiːn tʃʰaʊ</rt></ruby> (李垠桥/李垠橋/Joey)**, currently a **postdoctoral fellow** at [AI^2 Lab](https://sites.google.com/site/aisquaredlab/home?authuser=0) at the **City University of Hong Kong (CityUHK)** under the supervision of Prof. SONG Linqi. 
+I am **<ruby>LI Yinqiao<rt>liː jiːn tʃʰaʊ</rt></ruby> (李垠桥/李垠橋/Joe)**, currently a **postdoctoral fellow** at [AI^2 Lab](https://sites.google.com/site/aisquaredlab/home?authuser=0) at the **City University of Hong Kong (CityUHK)** under the supervision of Prof. SONG Linqi. 
 
 I received my Ph.D. and M.S. degrees from Northeastern University (CN) under the supervision of Prof. XIAO Tong and Prof. ZHU Jingbo ([NEUNLP Lab](http://team.neu.edu.cn/NEUNLPLab/zh_CN/index.htm)). I also earned my B.S. degree at the [NEU-RTES Lab](http://www.neu-rtes.org/index.php) of Northeastern University (CN). My research primarily focuses on language modeling, neural architecture search for NLP tasks, machine translation, and related areas. Detailed publications can be found [here](/Research). 
 
@@ -16,7 +16,7 @@ Additionally, I am passionate about contributing to our NLP community. I served 
 
  [💼 LinkedIn](https://www.linkedin.com/in/yinqiao-li-9b2050140/) [📑 CV](https://github.com/liyinqiao2012/myCV/raw/master/CV-YinqiaoLi.pdf)  [📚 Google Scholar](https://scholar.google.com/citations?user=8fz9hSUAAAAJ&hl=zh-TW) [📧 Email](mailto:li.yin.qiao.2012@hotmail.com) 
 
-[📍 Office: MMW RM2485@CityUHK](https://maps.app.goo.gl/HgPAx2mx74pifwbr8)
+[📍 Office: InnoCentre Room 206@CityUHK](https://maps.app.goo.gl/2Jmi9E3nGxWjpAZBA)
 
 ## NEWS
 
@@ -66,15 +66,15 @@ More news can be found [here](/News).
 
 - **Natural Language Processing**
   - Language Modeling
-  - Pre-training
-  - Neural Architecture Search for NLP tasks
+  - Low-Resource Tasks Adaptation in LLMs
+  - Neural Architecture Search for NLP
   - Machine Translation
-  - NLP Applications (FinTech, AI for Education, etc.)
+  - NLP Applications (e.g., FinTech, AI for Education)
 
 ## MISC
 
-I love my hometown (Northeast China/Manchuria). I grew up in Anshan and completed my entire education in Shenyang  (~11 years). People there are very warm and friendly — always cheerful and full of positive energy. I'm so grateful for inheriting the Northeastern Chinese spirit that supports me in any situation.
+I love my hometown (Northeast China/Manchuria). I grew up in Anshan and completed my entire higher education in Shenyang  (~11 years). People there are very warm and friendly — always cheerful and full of positive energy. I'm so grateful for inheriting the Northeastern Chinese spirit that supports me in any situation.
 
-Now, I work in Hong Kong 🇭🇰. This is also an amazing city. Its high diversity, incredible inclusiveness, magnificent urban and natural landscapes — all these unique features make me enjoy living here. Additionally, I'm learning Cantonese. Every time my local neighbors compliment my Cantonese, like "你而家廣東話講得叻好多喇 (Your Cantonese is better now)", it always makes my day!
+Now, I live and work in Hong Kong 🇭🇰. This is also an amazing city. Its remarkable diversity, incredible inclusiveness, magnificent urban and natural landscapes — all these unique features make me proud and happy to be part of this community. Additionally, I'm learning Cantonese. Every time my local neighbors compliment my Cantonese, like "你而家廣東話講得叻好多喇 (Your Cantonese is much better now)", it always makes my day!
 
 *With best wishes to my parents and everyone I hold close to my heart.* 🤞
