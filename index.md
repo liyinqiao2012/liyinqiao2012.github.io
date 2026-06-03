@@ -73,7 +73,7 @@ More news can be found [here](/News).
 
 ## MISC
 
-I love my hometown (Northeast China/Manchuria). I grew up in Anshan and completed my entire higher education in Shenyang  (~11 years). People there are very warm and friendly — always cheerful and full of positive energy. I'm so grateful for inheriting the Northeastern Chinese spirit that supports me in any situation.
+I love my hometown (Northeast China). I grew up in Anshan and completed my entire higher education in Shenyang  (~11 years). People there are very warm and friendly — always cheerful and full of positive energy. I'm so grateful for inheriting the Northeastern Chinese spirit that supports me in any situation.
 
 Now, I live and work in Hong Kong 🇭🇰. This is also an amazing city. Its remarkable diversity, incredible inclusiveness, magnificent urban and natural landscapes — all these unique features make me proud and happy to be part of this community. Additionally, I'm learning Cantonese. Every time my local neighbors compliment my Cantonese, like "你而家廣東話講得叻好多喇 (Your Cantonese is much better now)", it always makes my day!
 
