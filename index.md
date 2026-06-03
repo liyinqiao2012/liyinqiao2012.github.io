@@ -8,11 +8,11 @@ description: "Homepage of LI Yinqiao, postdoc/postdoctoral fellow, NLP researche
   <img src="/asset/pics/myself.jpeg" alt="Myself" width="212"/>
 </picture>
 
-I am **<ruby>LI Yinqiao<rt>liː jiːn tʃʰaʊ</rt></ruby> (李垠桥/李垠橋/Joe)**, currently a **postdoctoral fellow** in the [AI^2 Lab](https://sites.google.com/site/aisquaredlab/home?authuser=0) at **City University of Hong Kong (CityUHK)** under the supervision of Prof. SONG Linqi. 
+I am **<ruby>LI Yinqiao<rt>liː jiːn tʃʰaʊ</rt></ruby> (李垠桥/李垠橋/Joe)**, a **postdoctoral fellow** in the [AI^2 Lab](https://sites.google.com/site/aisquaredlab/home?authuser=0) at **City University of Hong Kong (CityUHK)** under the supervision of Prof. SONG Linqi. 
 
-I received my Ph.D. and M.S. degrees from Northeastern University (CN) under the supervision of Prof. XIAO Tong and Prof. ZHU Jingbo ([NEUNLP Lab](http://team.neu.edu.cn/NEUNLPLab/zh_CN/index.htm)). I also earned my B.S. degree from Northeastern University (CN), where I was affiliated with the [NEU-RTES Lab](http://www.neu-rtes.org/index.php). My research primarily focuses on language modeling, neural architecture search for NLP tasks, machine translation, and related areas. Detailed publications can be found [here](/Research). 
+I received my Ph.D. and M.S. degrees from Northeastern University (CN) under the supervision of Prof. XIAO Tong and Prof. ZHU Jingbo ([NEUNLP Lab](http://team.neu.edu.cn/NEUNLPLab/zh_CN/index.htm)). I also earned my B.S. degree from Northeastern University (CN), where I was affiliated with the [NEU-RTES Lab](http://www.neu-rtes.org/index.php). My research primarily focuses on language modeling, neural architecture search for NLP tasks, machine translation, and related areas. A detailed list of my publications can be found [here](/Research). 
 
-Additionally, I am passionate about contributing to our NLP community. I have served as an area chair for several academic conferences, including ACL ARR, CCL, etc. I am currently serving a fixed-term chair of [WiNLP](https://winlp-workshop.github.io/) (ACL-affiliated affinity group), with the aim of promoting and supporting the ideas and voices of underrepresented groups. More of my community activities can be found [here](/CommAct). 
+Additionally, I am passionate about contributing to our NLP community. I have served as an area chair for several academic conferences, including ACL ARR and CCL. I am currently serving as a fixed-term chair of [WiNLP](https://winlp-workshop.github.io/) (ACL-affiliated affinity group), with the aim of promoting and supporting the ideas and voices of underrepresented groups. More information about my community activities can be found [here](/CommAct). 
 
  [💼 LinkedIn](https://www.linkedin.com/in/yinqiao-li-9b2050140/) [📑 CV](https://github.com/liyinqiao2012/myCV/raw/master/CV-YinqiaoLi.pdf)  [📚 Google Scholar](https://scholar.google.com/citations?user=8fz9hSUAAAAJ&hl=zh-TW) [📧 Email](mailto:li.yin.qiao.2012@hotmail.com) 
 
@@ -53,7 +53,7 @@ More news can be found [here](/News).
 - **Postdoctoral Fellow, City University of Hong Kong (AI^2 Lab), 2023-present, Hong Kong SAR**
   - Department: Department of Computer Science
   - PI: Prof. SONG Linqi
-  - Research Directions: Natural Language Processing and FinTech
+  - Research Areas: Natural Language Processing and FinTech
 
 ## INTERNSHIP EXPERIENCE
 
@@ -73,7 +73,7 @@ More news can be found [here](/News).
 
 ## MISC
 
-I love my hometown (Northeast China). I grew up in Anshan and completed my entire higher education in Shenyang  (~11 years). People there are very warm and friendly — always cheerful and full of positive energy. I'm so grateful for inheriting the Northeastern Chinese spirit that supports me in any situation.
+I love my hometown (Northeast China). I grew up in Anshan and completed my entire higher education in Shenyang over 11 years. People there are very warm and friendly — always cheerful and full of positive energy. I'm so grateful for inheriting the Northeastern Chinese spirit that supports me in any situation.
 
 Now, I live and work in Hong Kong 🇭🇰. This is also an amazing city. Its remarkable diversity, incredible inclusiveness, magnificent urban and natural landscapes — all these unique features make me proud and happy to be part of this community. Additionally, I'm learning Cantonese. Every time my local neighbors compliment my Cantonese, like "你而家廣東話講得叻好多喇 (Your Cantonese is much better now)", it always makes my day!
 

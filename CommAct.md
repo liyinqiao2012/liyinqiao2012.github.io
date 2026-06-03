@@ -70,6 +70,6 @@ description: "Community activities of LI Yinqiao, a NLP researcher at City Unive
   
 - **Poster presentation** at the International Exhibition of Inventions Geneva 2024, 2024
   
-- **Poster presentation** at Young Scholar Symposium on Natural Language Processing 2019, 2019
+- **Poster presentation** at Young Scholars Symposium on Natural Language Processing 2019, 2019
   
 - **Poster presentation** at the 13th China Workshop on Machine Translation, 2017
