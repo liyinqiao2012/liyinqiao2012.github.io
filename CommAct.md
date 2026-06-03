@@ -34,21 +34,21 @@ description: "Community activities of LI Yinqiao, a NLP researcher at City Unive
   
 - **Reviewer** of ARR April 2024, 2024
   
-- **Reviwer** of AAAI 2023, 2022
+- **Reviewer** of AAAI 2023, 2022
   
-- **Reviwer** of IALP 2022, 2022
+- **Reviewer** of IALP 2022, 2022
   
-- **Reviwer** of ICML 2022, 2022
+- **Reviewer** of ICML 2022, 2022
   
-- **Reviwer** of ACL 2022, 2022
+- **Reviewer** of ACL 2022, 2022
   
-- **Reviwer** of AAAI 2022, 2021
+- **Reviewer** of AAAI 2022, 2021
   
-- **Reviwer** of ACL 2021, 2021
+- **Reviewer** of ACL 2021, 2021
   
-- **Reviwer** of AAAI 2021, 2020
+- **Reviewer** of AAAI 2021, 2020
   
-- **Reviwer** of CCL 2019, 2019
+- **Reviewer** of CCL 2019, 2019
   
 - **Tutorial presentation** on Workshop of the 18th China Conference on Machine Translation, 2022
   
