@@ -4,11 +4,11 @@ title: Community Activities 🎒
 description: "Community activities of LI Yinqiao, a NLP researcher at City University of Hong Kong (CityU/CityUHK)."
 ---
 
-- **Chair** of the Widening NLP (WiNLP), 2025-Present
+- **Chair** of Widening NLP (WiNLP), 2025-Present
   
 - **Member** of the Youth Working Committee of CIPS, 2023-Present
   
-- **Program&Publication Chair** of WiNLP 2025, 2025
+- **Program and Publication Chair** of WiNLP 2025, 2025
 
 - **Area Chair** of ARR May 2025, 2025
   
@@ -50,27 +50,26 @@ description: "Community activities of LI Yinqiao, a NLP researcher at City Unive
   
 - **Reviewer** of CCL 2019, 2019
   
-- **Tutorial presentation** on Workshop of the 18th China Conference on Machine Translation, 2022
+- **Tutorial presentation** at the Workshop of the 18th China Conference on Machine Translation, 2022
   
-- **Oral presentation** on the PhD Debate of AI Time, 2021
+- **Oral presentation** at the PhD Debate of AI Time, 2021
   
-- **Oral presentation** on the Doctoral Forum of the 15th China Conference on Machine Translation, 2020
+- **Oral presentation** at the Doctoral Forum of the 15th China Conference on Machine Translation, 2020
   
-- **Oral presentation** on the 58th Annual Meeting of the Association for Computational Linguistics, 2020
+- **Oral presentation** at the 58th Annual Meeting of the Association for Computational Linguistics, 2020
   
-- **Oral presentation** on the 28th International Joint Conference on Artificial Intelligence, 2019
+- **Oral presentation** at the 28th International Joint Conference on Artificial Intelligence, 2019
   
-- **Poster presentation** on the International Exhibition of Inventions Geneva (2026), 2026
+- **Poster presentation** at the International Exhibition of Inventions Geneva (2026), 2026
   
-- **Poster presentation** on the Asia Exhibition of Innovations and Inventions Hong Kong (AEII) 2025, 2025
+- **Poster presentation** at the Asia Exhibition of Innovations and Inventions Hong Kong (AEII) 2025, 2025
   
-- **Poster presentation** on the International Exhibition of Inventions Geneva (2025), 2025
+- **Poster presentation** at the International Exhibition of Inventions Geneva (2025), 2025
   
-- **Poster presentation** on the Asia Exhibition of Innovations and Inventions Hong Kong (AEII) 2024, 2024
+- **Poster presentation** at the Asia Exhibition of Innovations and Inventions Hong Kong (AEII) 2024, 2024
   
-- **Poster presentation** on the International Exhibition of Inventions Geneva 2024, 2024
+- **Poster presentation** at the International Exhibition of Inventions Geneva 2024, 2024
   
-- **Poster presentation** on Young Scholar Symposium on Natural Language Processing 2019, 2019
+- **Poster presentation** at Young Scholar Symposium on Natural Language Processing 2019, 2019
   
-- **Poster presentation** on the 13th China Workshop on Machine Translation, 2017
-  
+- **Poster presentation** at the 13th China Workshop on Machine Translation, 2017
