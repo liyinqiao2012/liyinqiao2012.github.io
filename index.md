@@ -8,7 +8,7 @@ description: "Homepage of LI Yinqiao, postdoc/postdoctoral fellow, NLP researche
   <img src="/asset/pics/myself.jpeg" alt="Myself" width="212"/>
 </picture>
 
-I am **<ruby>LI Yinqiao<rt>liː jiːn tʃʰaʊ</rt></ruby> (李垠桥/李垠橋/Joe)**, a **postdoctoral fellow** in the [AI^2 Lab](https://sites.google.com/site/aisquaredlab/home?authuser=0) at **City University of Hong Kong (CityUHK)** under the supervision of Prof. SONG Linqi. 
+I am **<ruby>LI Yinqiao<rt>liː jiːn tʃʰaʊ</rt></ruby> (李垠橋/李垠桥/Joe)**, a **postdoctoral fellow** in the [AI^2 Lab](https://sites.google.com/site/aisquaredlab/home?authuser=0) at **City University of Hong Kong (CityUHK)** under the supervision of Prof. SONG Linqi. 
 
 I received my Ph.D. and M.S. degrees from Northeastern University (CN) under the supervision of Prof. XIAO Tong and Prof. ZHU Jingbo ([NEUNLP Lab](http://team.neu.edu.cn/NEUNLPLab/zh_CN/index.htm)). I also earned my B.S. degree from Northeastern University (CN), where I was affiliated with the [NEU-RTES Lab](http://www.neu-rtes.org/index.php). My research primarily focuses on language modeling, neural architecture search for NLP tasks, machine translation, and related areas. A detailed list of my publications can be found [here](/Research). 
 
@@ -24,7 +24,7 @@ Additionally, I am passionate about contributing to our NLP community. I have se
 
  <strong>Currently Working On</strong><br>
 
-I am currently preparing a series of trilingual video tutorials in English, Cantonese, and Mandarin on low-resource task adaptation for large language models. Through this work, I hope to encourage broader research on real-world NLP tasks for AI for social good and underrepresented communities. Based in Hong Kong 🇭🇰, I am also interested in Hong Kong Sign Language and hope to explore how LLM technologies can support deaf and hard-of-hearing communities, while contributing to the preservation of Cantonese-related local language and culture. I look forward to future collaboration with researchers in this area and to exploring potential research projects together :)
+I am currently preparing a series of **trilingual video tutorials** in English, Cantonese, and Mandarin on low-resource task adaptation for large language models. Through this work, I hope to encourage broader research on real-world NLP tasks for AI for social good and underrepresented communities 🤝. Based in Hong Kong, I am also interested in **Hong Kong Sign Language** and hope to explore how LLM technologies can support deaf and hard-of-hearing communities, while contributing to the preservation of Cantonese-related local language and culture. I look forward to future collaboration with researchers in this area and to exploring potential research projects together :)
 
 </div>
 
