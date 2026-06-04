@@ -72,4 +72,4 @@ description: "Paper list/publication of LI Yinqiao, a NLP researcher at City Uni
 
 ## EDITORIAL SERVICE
 
-- Chen Zhang, Emily Allaway, Hua Shen, Lesly Miculicich, <u>Yinqiao Li</u>, Meryem M'hamdi, Peerat Limkonchotiwat, Richard He Bai, Santosh T.y.s.s., Sophia Simeng Han, Surendrabikram Thapa and Wiem Ben Rim (alphabetical order). 2025. *Proceedings of the 9th Widening NLP Workshop*. In Proc. of the 9th Widening NLP Workshop (WiNLP), Suzhou, China.
+- Chen Zhang, Emily Allaway, Hua Shen, Lesly Miculicich, <u>Yinqiao Li</u>, Meryem M'hamdi, Peerat Limkonchotiwat, Richard He Bai, Santosh T.y.s.s., Sophia Simeng Han, Surendrabikram Thapa and Wiem Ben Rim. 2025. *Proceedings of the 9th Widening NLP Workshop*. In Proc. of the 9th Widening NLP Workshop (WiNLP), Suzhou, China.
