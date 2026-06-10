@@ -8,8 +8,12 @@ description: "Community activities of LI Yinqiao, a NLP researcher at City Unive
   
 - **Member** of the Youth Working Committee of CIPS, 2023-Present
   
+- **Program Chair** of WiNLP 2026, 2026
+  
+- **Area Chair** of ARR May 2026, 2026
+  
 - **Program and Publication Chair** of WiNLP 2025, 2025
-
+  
 - **Area Chair** of ARR May 2025, 2025
   
 - **Area Chair** of CCL 2025, 2025
