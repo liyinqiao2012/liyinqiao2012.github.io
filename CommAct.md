@@ -55,27 +55,27 @@ description: "Community activities of LI Yinqiao, a NLP researcher at City Unive
 - **Reviewer** of AAAI 2021, 2020
   
 - **Reviewer** of CCL 2019, 2019
-  
-- **Tutorial presentation** at the Workshop of the 18th China Conference on Machine Translation, 2022
-  
-- **Oral presentation** at the PhD Debate of AI Time, 2021
-  
-- **Oral presentation** at the Doctoral Forum of the 15th China Conference on Machine Translation, 2020
-  
-- **Oral presentation** at the 58th Annual Meeting of the Association for Computational Linguistics, 2020
-  
-- **Oral presentation** at the 28th International Joint Conference on Artificial Intelligence, 2019
-  
-- **Poster presentation** at the International Exhibition of Inventions Geneva (2026), 2026
-  
+
+- **Tutorial presentation** at the 18th China Conference on Machine Translation (CCMT), 2022
+
+- **Panel discussion** at the PhD Debate of AI Time, 2021
+
+- **Panel discussion** at the 15th China Conference on Machine Translation (CCMT), 2020
+
+- **Oral presentation** at the 58th Annual Meeting of the Association for Computational Linguistics (ACL), 2020
+
+- **Oral presentation** at the 28th International Joint Conference on Artificial Intelligence (IJCAI), 2019
+
+- **Poster presentation** at the International Exhibition of Inventions Geneva (IEIG) 2026, 2026
+
 - **Poster presentation** at the Asia Exhibition of Innovations and Inventions Hong Kong (AEII) 2025, 2025
-  
-- **Poster presentation** at the International Exhibition of Inventions Geneva (2025), 2025
-  
+
+- **Poster presentation** at the International Exhibition of Inventions Geneva (IEIG) 2025, 2025
+
 - **Poster presentation** at the Asia Exhibition of Innovations and Inventions Hong Kong (AEII) 2024, 2024
-  
-- **Poster presentation** at the International Exhibition of Inventions Geneva 2024, 2024
-  
-- **Poster presentation** at Young Scholars Symposium on Natural Language Processing 2019, 2019
-  
-- **Poster presentation** at the 13th China Workshop on Machine Translation, 2017
+
+- **Poster presentation** at the International Exhibition of Inventions Geneva (IEIG) 2024, 2024
+
+- **Poster presentation** at Young Scholars Symposium on Natural Language Processing (YSSNLP) 2019, 2019
+
+- **Poster presentation** at the 13th China Workshop on Machine Translation (CWMT), 2017
