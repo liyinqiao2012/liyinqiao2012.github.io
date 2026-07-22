@@ -21,7 +21,9 @@ description: "Community activities of LI Yinqiao, a NLP researcher at City Unive
 - **Area Chair** of ARR Feb 2025, 2025
   
 - **Publicity Chair** of AICIT 2024, 2024
-  
+
+- **Reviewer** of NeurIPS 2026, 2026
+
 - **Reviewer** of WiNLP 2025, 2025
   
 - **Reviewer** of Natural Language Processing Journal, 2025

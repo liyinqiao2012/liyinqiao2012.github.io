@@ -68,6 +68,7 @@ description: "Paper list/publication of LI Yinqiao, a NLP researcher at City Uni
 - Qiang Wang, Bei Li, Jiqiang Liu, Bojian Jiang, Zheyang Zhang, <u>Yinqiao Li</u>, Ye Lin, Tong Xiao, Jingbo Zhu. 2018. *The NiuTrans Machine Translation System for WMT18*. In Proc. of the Third Conference on Machine Translation (WMT), Brussels, Belgium.
 - Qiang Wang, Bei Li, Jiqiang Liu, Bojian Jiang, Zheyang Zhang, <u>Yinqiao Li</u>, Ye Lin, Tong Xiao and Jingbo Zhu. 2018. *Towards Building a Strong Transformer Neural Machine Translation System*. In Proc. of the 14th China Workshop on Machine Translation (CWMT), Wuyishan, China.
 - Jiong Wang, Qing Zhang, Jie Liu, Kaifeng Nie, Ze Zhang, Linqi Song, <u>Yinqiao Li</u>. 2025. *Sub-network Knowledge Injection and Transferable Parameter Updating Strategy for Continual Learning of Vision-and-Language Tasks*. IEEE Transactions on Artificial Intelligence (TAI). 
+- Mingying Xu, Fei Hou, Jie Liu, Li Xiong, Guizhong Xu, Feifei Kou, Lei Shi, Linqi Song, <u>Yinqiao Li</u>, Muhammet Deveci. 2026. *Data Augmentation with Entity-Object Consistency for Low-Resource Grounded Multimodal Named Entity Recognition*. Applied Soft Computing. 
 - Yuhao Zhang, Ziyang Wang, Runzhe Cao, Binghao Wei, Weiqiao Shan, Shuhan Zhou, Abudurexiti Reheman, Tao Zhou, Xin Zeng, Laohu Wang, Xiaoqian Liu, Xunjuan Zhou, Yongyu Mu, Jingnan Zhang, <u>Yinqiao Li</u>, Bei Li, Tong Xiao and Jingbo Zhu. 2020. *The NiuTrans Machine Translation Systems for WMT20*. In Proc. of the Fifth Conference on Machine Translation (WMT), online. 
 
 ## EDITORIAL SERVICE
