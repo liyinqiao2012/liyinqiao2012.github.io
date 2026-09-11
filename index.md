@@ -21,10 +21,9 @@ Additionally, I am passionate about contributing to our NLP community. I have se
 ## NEWS
 
 <div class="news-highlight">
+<strong>Currently Working On</strong><br>
 
- <strong>Currently Working On</strong><br>
-
-I am currently preparing a series of <strong>trilingual video tutorials</strong> (https://youtu.be/ho6TXCtjbBY) in English, Cantonese, and Mandarin on low-resource task adaptation for large language models. Through this work, I hope to encourage broader research on real-world NLP tasks for AI for social good and underrepresented communities 🤝. Based in Hong Kong, I am also interested in <strong>Hong Kong Sign Language</strong> and hope to explore how LLM technologies can support deaf and hard-of-hearing communities, while contributing to the preservation of Cantonese-related local language and culture. I look forward to future collaboration with researchers in this area and to exploring potential research projects together :)
+I am currently preparing a series of <strong>trilingual video tutorials</strong> (<a href="https://youtu.be/ho6TXCtjbBY">Watch on YouTube</a>) in English, Cantonese, and Mandarin on low-resource task adaptation for large language models. Through this work, I hope to encourage broader research on real-world NLP tasks for AI for social good and underrepresented communities 🤝. Based in Hong Kong, I am also interested in <strong>Hong Kong Sign Language</strong> and hope to explore how LLM technologies can support deaf and hard-of-hearing communities, while contributing to the preservation of Cantonese-related local language and culture. I look forward to future collaboration with researchers in this area and to exploring potential research projects together :)
 
 </div>
 
