@@ -6,10 +6,10 @@ description: "Paper list/publication of LI Yinqiao, a NLP researcher at City Uni
 
 ## RESEARCH EXPERIENCE
 
-- **Low-Resource Task Adaptation in LLMs (Under Review), 2025-2026**
+- **Low-Resource Task Adaptation in LLMs (Under Review; Preprint), 2025-2026**
+  - Task adaptation is a crucial step for deploying large language models (LLMs) on downstream tasks. However, in low-resource settings, the scarcity of labeled data limits effective task-specific specialization, often leading to performance degradation, hallucinations, and unreliable behavior in long-tail applications. 
+  - In this paper, we present a systematic survey of low-resource task adaptation and propose a taxonomy spanning data-centric methods, effective post-training, and reliable inference. We review representative approaches, summarize resources, and highlight open challenges. These discussions frame low-resource task adaptation as an important research problem for reliable LLM deployment and as part of a broader shift toward resource-aware NLP research. 
   
-  *Note: Details of this work are not included at this stage, as the corresponding manuscript is currently under double-blind review. I will update this section with a concise summary once the paper is accepted.* 
-
 - **LoRAN: Improved Low-Rank Adaptation by a Non-Linear Transformation, 2023-2024**
   - In this paper, we study parameter-efficient fine-tuning methods for large pre-trained models. Specifically, we improve LoRA approaches to alleviate the performance loss from the constrained adapter by introducing a non-linear transformation (call it LoRAN). For a better adaptation, we also design a new non-linear function to appropriately fit the accumulated weight updates. 
   - We test our method in multiple advanced large language models. Experimental results show that our LoRAN significantly outperforms a strong baseline on SAMSum and 20 Newsgroups tasks. Moreover, when a lower rank is applied, our approach even yields a 1.95-point improvement in the classification task. 
@@ -44,6 +44,7 @@ description: "Paper list/publication of LI Yinqiao, a NLP researcher at City Uni
 - <u>Yinqiao Li</u>, Chi Hu, Yuhao Zhang, Nuo Xu, Yufan Jiang, Tong Xiao, Jingbo Zhu, Tongran Liu, Changliang Li. 2020. *Learning Architectures from an Extended Search Space for Language Modeling*. In Proc. of the 58th Annual Meeting of the Association for Computational Linguistics (ACL), Seattle, USA. 
 - Tong Xiao (my advisor), <u>Yinqiao Li</u>, Jingbo Zhu, Zhengtao Yu and Tongran Liu. 2019. *Sharing Attention Weights for Fast Transformer*. In Proc. of the 28th International Joint Conference on Artificial Intelligence (IJCAI), Macao, China. 
 - <u>Yinqiao Li</u>, Runzhe Cao, Qiaozhi He, Tong Xiao, Jingbo Zhu. 2023. *Learning Reliable Neural Networks with Distributed Architecture Representations*. ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP). 
+- <u>Yinqiao Li</u>, Yujie Yang, Guangcheng Song, Feilong Ding, Weiquan Wu, Jiuan Shi, Yingfeng Luo, Tong Xiao, Jie Liu, Linqi Song. 2026. *No Task Is an Island: A Survey of Low-Resource Task Adaptation in LLMs*. figshare preprint figshare:33980554.
 - Guanzhi Deng, Yi Xie, Yu-Keung Ng, Mingyang Liu, Peijun Zheng, Jie Liu, Dapeng Wu, <u>Yinqiao Li (corresponding author)</u>, Linqi Song. 2025. *KLIPA: A Knowledge Graph and LLM-Driven QA Framework for IP Analysis*. arXiv preprint arXiv:2509.07860. 
 - Guanzhi Deng, Mingyang Liu, Dapeng Wu, <u>Yinqiao Li (corresponding author)</u>, Linqi Song. 2025. *Enhancing Low-Rank Adaptation with Structured Nonlinear Transformations*. arXiv preprint arXiv:2509.21870.
 - <u>Yinqiao Li</u>, Ambyer Han, Le Bo, Tong Xiao, Jingbo Zhu, Li Zhang. 2017. *Analysis of Data Parallel Methods in Training Neural Language Models via Multiple GPUs*. In Proc. of the 13th China Workshop on Machine Translation (CWMT), Dalian, China. 

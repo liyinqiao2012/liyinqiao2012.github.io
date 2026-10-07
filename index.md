@@ -76,7 +76,7 @@ More news can be found [here](/News).
   - Low-Resource Task Adaptation in LLMs
   - Neural Architecture Search for NLP
   - Machine Translation
-  - NLP Applications (e.g., FinTech, AI for Education)
+  - NLP Applications (e.g., AI for Education, FinTech)
 
 ## MISC
 
