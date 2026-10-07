@@ -57,7 +57,7 @@ More news can be found [here](/News).
 
 ## WORK EXPERIENCE 
 
-- **Postdoctoral Fellow, City University of Hong Kong (AI^2 Lab), 2023-present, Hong Kong SAR**
+- **Postdoctoral Fellow, City University of Hong Kong (AI^2 Lab), 2023-present, Hong Kong**
   - Department: Department of Computer Science
   - PI: Prof. SONG Linqi
   - Research Areas: Natural Language Processing and FinTech
