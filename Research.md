@@ -6,7 +6,7 @@ description: "Paper list/publication of LI Yinqiao, a NLP researcher at City Uni
 
 ## RESEARCH EXPERIENCE
 
-- **Low-Resource Task Adaptation in LLMs (Under Review; Preprint), 2025-2026**
+- **No Task Is an Island: A Survey of Low-Resource Task Adaptation in LLMs (Preprint), 2025-2026**
   - Task adaptation is a crucial step for deploying large language models (LLMs) on downstream tasks. However, in low-resource settings, the scarcity of labeled data limits effective task-specific specialization, often leading to performance degradation, hallucinations, and unreliable behavior in long-tail applications. 
   - In this paper, we present a systematic survey of low-resource task adaptation and propose a taxonomy spanning data-centric methods, effective post-training, and reliable inference. We review representative approaches, summarize resources, and highlight open challenges. These discussions frame low-resource task adaptation as an important research problem for reliable LLM deployment and as part of a broader shift toward resource-aware NLP research. 
   
