@@ -8,6 +8,8 @@ description: "Community activities of LI Yinqiao, a NLP researcher at City Unive
   
 - **Member** of the Youth Working Committee of CIPS, 2023-Present
   
+- **Full Member** of the Hong Kong Computer Society (HKCS), 2026-Present
+  
 - **Program and Publication Chair** of WiNLP 2026, 2026
   
 - **Area Chair** of ARR May 2026, 2026
